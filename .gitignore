@@ -1,7 +1,5 @@
-*.pyc
-*.py
-*.js
-*.txt
-*login.txt
-*information.txt 
+.pyc
+.py
+.js
+.txt
 test/
